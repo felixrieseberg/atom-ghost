@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open in Ghost",
+        "command": "atom-ghost:open-in-ghost"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-ghost",
+          "submenu": [
+            {
+              "label": "Open in Ghost",
+              "command": "atom-ghost:open-in-ghost"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

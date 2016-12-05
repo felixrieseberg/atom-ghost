@@ -1,0 +1,21 @@
+{
+  "name": "atom-ghost",
+  "main": "./lib/atom-ghost",
+  "version": "0.0.0",
+  "description": "Write posts in Atom, publish them with Ghost!",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-ghost:open-in-ghost"
+  },
+  "repository": "https://github.com/felixrieseberg/atom-ghost",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "openurl": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
