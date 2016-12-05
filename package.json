@@ -1,7 +1,7 @@
 {
   "name": "atom-ghost",
   "main": "./lib/atom-ghost",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Write posts in Atom, publish them with Ghost!",
   "keywords": [],
   "activationCommands": {
